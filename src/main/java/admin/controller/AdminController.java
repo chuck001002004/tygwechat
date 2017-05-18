@@ -1,5 +1,6 @@
 package admin.controller;
 
+<<<<<<< HEAD
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 
@@ -15,4 +16,10 @@ public class AdminController {
         return "hello";
     }
 
+=======
+/**
+ * Created by Boqi-Hu on 2017/5/17.
+ */
+public class AdminController {
+>>>>>>> origin/master
 }
